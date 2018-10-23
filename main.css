@@ -1188,7 +1188,7 @@ input, select, textarea {
 			display: block;
 		}
 
-		@media screen and (max-width: 1680px) {
+		@media screen and (max-width: 3000px) {
 
 			#wrapper {
 				padding: 3rem 2rem;
